@@ -1,5 +1,3 @@
-// Write a gitignore for javascript and go projects running on mac and linux
-
 node_modules/
 .DS_Store
 package-lock.json
